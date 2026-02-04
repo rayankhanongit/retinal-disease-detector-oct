@@ -32,7 +32,7 @@ The model is deployed locally using Streamlit, allowing users to upload OCT imag
 
 
 
-!\[Web App Demo](screenshots/web\_app\_gradcam.png)
+!\[Web App Demo](https://github.com/<rayankhanongit>/<retinal-disease-detector-oct>/raw/main/screenshots/web\_app\_gradcam.png)
 
 
 
