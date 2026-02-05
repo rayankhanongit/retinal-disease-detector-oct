@@ -33,10 +33,8 @@ An end-to-end deep learning system for automated retinal disease classification 
 The model is deployed locally using Streamlit, allowing users to upload OCT images and receive predictions with confidence scores and Grad-CAM visual explanations.
 
 
+<img src="https://github.com/user-attachments/assets/614e12a8-3275-43a0-821c-3a7febed984d" width="700" alt="Web App Grad-CAM Demo">
 
-!\[Web App Demo](https://github.com/<rayankhanongit>/<
-
-retinal-disease-detector-oct>/raw/main/screenshots/web\_app\_gradcam.png)
 
 
 
