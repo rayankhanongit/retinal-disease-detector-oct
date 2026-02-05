@@ -54,7 +54,8 @@ The model is deployed locally using Streamlit, allowing users to upload OCT imag
 
 
 
-> Dataset is not included due to size and licensing constraints.
+<img width="1295" height="737" alt="dataset_structure" src="https://github.com/user-attachments/assets/b824fed7-9516-42e6-9db7-4ab3f41074d6" />
+
 
 
 
@@ -100,7 +101,8 @@ The model is deployed locally using Streamlit, allowing users to upload OCT imag
 
 \### Classification Performance
 
-!\[Evaluation Results](screenshots/evaluation\_results.png)
+<img width="1893" height="872" alt="evaluation_results" src="https://github.com/user-attachments/assets/c9767003-750a-47bd-9aab-e95a81797933" />
+
 
 
 
